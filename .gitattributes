@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.ino linguist-language=cpp
+*.e linguist-language=E
+*.html linguist-language=HTML
